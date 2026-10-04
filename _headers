@@ -1,0 +1,7 @@
+# Intestazioni per Cloudflare Pages (su Netlify valgono quelle di netlify.toml)
+/sw.js
+  Cache-Control: no-cache
+/domande.json
+  Cache-Control: no-cache
+/*
+  X-Robots-Tag: noindex, nofollow
